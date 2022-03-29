@@ -1,18 +1,210 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
 
-# Other files and folders
-.settings/
+cl_interp 0
+ 
+cl_interpolate 0
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+cl_lagcomp_errorcheck 1
+ 
+cl_phys_props_enable 0
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+cl_phys_props_max 0
+
+cl_ragdoll_physics_enable 0
+
+cl_rate 25000
+
+cl_show_splashes 0
+
+cl_showfps 1
+
+cl_smooth 0
+
+cl_updaterate 101
+
+con_enable 1
+
+fog_enable 0
+
+mat_bumpmap 0 
+
+mat_clipz 0
+
+mat_fastnobump 1
+
+mat_mipmaptextures 1
+
+mat_picmip 2
+
+mat_specular 0
+
+mp_decals 300 and less
+
+muzzleflash_light 0
+
+r_3dsky 0
+
+r_decal_cullsize 1
+
+r_decals 0 
+
+r_drawlights 0
+
+r_drawrain 0
+ 
+r_dynamic 0
+ 
+r_eyes 0
+ 
+r_lod 5
+ 
+r_modellodscale 0.1
+
+r_propsmaxdist 1000
+
+r_rainradius 0
+
+r_rainsimulate 0
+
+r_rainsplashpercentage 0
+
+r_shadows 0
+
+r_teeth 0
+
+rate 25000
+
+dsp_enhance_stereo 1
+
+cl_rate 20000
+
+cl_resend 0
+
+cl_cmdbackup 0
+
+mat_dxlevel 70
+
+mat_bumpmap 0
+
+mat_specular 0
+
+cl_forcepreload 1
+
+fog_enable_water_fog 0
+
+fog_enable 0
+
+fog_enableskybox 0
+
+cl_interp 0
+
+cl_smooth 0
+
+r_fastzreject 1
+
+r_dynamic 1
+
+r_farz -1
+
+r_occlusion 1
+
+sv_forcepreload 1
+
+sv_robust_explosions 1
+
+cl_phys_props_enable 1
+
+cl_pred_optimize 1
+
+cl_smooth 0
+
+cl_pred_optimize to "1"
+
+cl_ejectbrass 0
+
+cl_drawshadowtexture 0
+
+cl_show_splashes "0"
+
+cl_c4dynamiclight "1"
+
+cl_dynamiccrosshair 0
+
+cl_ragdoll_collide "1"
+
+cl_ragdoll_physics_enable 1
+
+mat_fastnobump "1"
+
+mat_bufferprimitives "1"
+
+mat_reducefillrate "1"
+
+mat_loadtextures "1"
+
+mat_filterlightmaps 1
+
+mat_fastspecular 1
+
+mat_bumpmap 0
+
+mat_specular 0
+
+mat_forcehardwaresync 3
+
+mat_reducefillrate 3
+
+budget_show_history 0
+
+fps_max "999"
+
+sv_voicequality "1"
+
+sv_voicecodec "voice_speex"
+
+sv_voiceenable "0"
+
+hud_fastswitch 1
+
+hud_centerid "0"
+
+r_dispfullradius "2"
+
+r_lightaverage "0"
+
+r_lightinterp "0"
+
+r_rootlod 2
+
+ar_shadowmaxrendered "-1"
+
+r_shadowrendertotexture "0"
+
+r_DispUseStaticMeshes "0"
+
+r_worldlightmin "1"
+
+r_worldlights "1"
+
+r_RainSimulate 0
+
+r_rainalpha 0
+
+r_rainalphapow 0
+
+r_raindensity 0
+
+r_rainlength 0
+
+r_RainProfile 0
+
+r_RainRadius 0
+
+r_RainSideVel 0
+
+r_RainSimulate 0
+
+r_rainspeed 0
+
+r_RainSplashPercentage 0
+
+r_rainwidth 0
